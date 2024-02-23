@@ -25,7 +25,7 @@ Como Ingeniero en Sistemas Computacionales, con especialización en bases de dat
 
 ## Casos Practicos:
 <a>
-<a href="https://ingenieroblack.github.io/Cyclistic_analysis/" 
+<a href="https://jorgevillegascruz.github.io/Cyclistic_analysis/" 
 title="Caso practico: Cyclistic Bike-Share">
 <img src="https://miro.medium.com/v2/resize:fit:400/1*6Ab1iJjXCAwRsir_35wBKQ.jpeg" width="230px"/>
 </a>
@@ -33,7 +33,7 @@ title="Caso practico: Cyclistic Bike-Share">
 ## 📊 Estadísticas :
 ![](https://github-readme-stats.vercel.app/api?username=JorgeVillegasCruz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeVillegasCruz&theme=radical&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVillegasCruz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVillegasCruz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🕹 Ideas
 <img src="https://i.pinimg.com/564x/ed/83/89/ed83897e481c14f9e525c49a0db7d030.jpg" width="320px"/>
