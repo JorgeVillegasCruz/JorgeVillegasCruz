@@ -3,6 +3,8 @@
 ## Sobre mi:
 Como Ingeniero en Sistemas Computacionales, con especialización en bases de datos, estoy en constante búsqueda de nuevos desafíos y oportunidades para avanzar profesionalmente. Mi experiencia se centra en la recolección y depuración de datos, así como en la toma de decisiones fundamentadas en análisis de datos. Me gradué del Instituto Tecnológico Superior de Poza Rica y estoy comprometido con el aprendizaje continuo y el desarrollo de habilidades en el ámbito tecnológico.
 
+Además, he completado exitosamente el Certificado Profesional de Análisis de Datos de Google, lo que ha enriquecido mi conjunto de habilidades y me ha brindado una perspectiva más amplia en el ámbito del análisis de datos.
+
 
  
 
