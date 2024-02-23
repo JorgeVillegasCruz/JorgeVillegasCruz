@@ -41,7 +41,7 @@ title="Caso practico: Cyclistic Bike-Share">
 <img src="https://i.pinimg.com/564x/ed/83/89/ed83897e481c14f9e525c49a0db7d030.jpg" width="320px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=INGenieroBLACK&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JorgeVillegasCruz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
